@@ -1,0 +1,4 @@
+Rencana Konten 
+- Python
+  - OpenCV
+- Laravel

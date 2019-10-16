@@ -1,3 +1,4 @@
 Resolusi Aldhy
 - Membuat konten website
 - Menambahkan banyak file pada repo
+- Membuat konten website untuk laravel
